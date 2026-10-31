@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\semester 2\\OOPs\\C# PROJECT\\O S Center\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EDAAA01-86CE-4CB1-A25B-D1802E1FCABE}|O S Center\\O S Center.csproj|D:\\semester 2\\OOPs\\C# PROJECT\\O S Center\\o s center\\project\\projectui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EDAAA01-86CE-4CB1-A25B-D1802E1FCABE}|O S Center\\O S Center.csproj|solutionrelative:o s center\\project\\projectui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EDAAA01-86CE-4CB1-A25B-D1802E1FCABE}|O S Center\\O S Center.csproj|D:\\semester 2\\OOPs\\C# PROJECT\\O S Center\\o s center\\project\\projectmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EDAAA01-86CE-4CB1-A25B-D1802E1FCABE}|O S Center\\O S Center.csproj|solutionrelative:o s center\\project\\projectmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EDAAA01-86CE-4CB1-A25B-D1802E1FCABE}|O S Center\\O S Center.csproj|D:\\semester 2\\OOPs\\C# PROJECT\\O S Center\\o s center\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EDAAA01-86CE-4CB1-A25B-D1802E1FCABE}|O S Center\\O S Center.csproj|solutionrelative:o s center\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EDAAA01-86CE-4CB1-A25B-D1802E1FCABE}|O S Center\\O S Center.csproj|D:\\semester 2\\OOPs\\C# PROJECT\\O S Center\\o s center\\project\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EDAAA01-86CE-4CB1-A25B-D1802E1FCABE}|O S Center\\O S Center.csproj|solutionrelative:o s center\\project\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EDAAA01-86CE-4CB1-A25B-D1802E1FCABE}|O S Center\\O S Center.csproj|d:\\semester 2\\oops\\c# project\\o s center\\o s center\\project\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EDAAA01-86CE-4CB1-A25B-D1802E1FCABE}|O S Center\\O S Center.csproj|solutionrelative:o s center\\project\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "projectRepository.cs",
+              "DocumentMoniker": "D:\\semester 2\\OOPs\\C# PROJECT\\O S Center\\O S Center\\PROJECT\\projectRepository.cs",
+              "RelativeDocumentMoniker": "O S Center\\PROJECT\\projectRepository.cs",
+              "ToolTip": "D:\\semester 2\\OOPs\\C# PROJECT\\O S Center\\O S Center\\PROJECT\\projectRepository.cs",
+              "RelativeToolTip": "O S Center\\PROJECT\\projectRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T18:40:13.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "projectService.cs",
+              "DocumentMoniker": "D:\\semester 2\\OOPs\\C# PROJECT\\O S Center\\O S Center\\PROJECT\\projectService.cs",
+              "RelativeDocumentMoniker": "O S Center\\PROJECT\\projectService.cs",
+              "ToolTip": "D:\\semester 2\\OOPs\\C# PROJECT\\O S Center\\O S Center\\PROJECT\\projectService.cs",
+              "RelativeToolTip": "O S Center\\PROJECT\\projectService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T18:39:41.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "projectUI.cs",
+              "DocumentMoniker": "D:\\semester 2\\OOPs\\C# PROJECT\\O S Center\\O S Center\\PROJECT\\projectUI.cs",
+              "RelativeDocumentMoniker": "O S Center\\PROJECT\\projectUI.cs",
+              "ToolTip": "D:\\semester 2\\OOPs\\C# PROJECT\\O S Center\\O S Center\\PROJECT\\projectUI.cs",
+              "RelativeToolTip": "O S Center\\PROJECT\\projectUI.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T18:39:21.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "projectModel.cs",
+              "DocumentMoniker": "D:\\semester 2\\OOPs\\C# PROJECT\\O S Center\\O S Center\\PROJECT\\projectModel.cs",
+              "RelativeDocumentMoniker": "O S Center\\PROJECT\\projectModel.cs",
+              "ToolTip": "D:\\semester 2\\OOPs\\C# PROJECT\\O S Center\\O S Center\\PROJECT\\projectModel.cs",
+              "RelativeToolTip": "O S Center\\PROJECT\\projectModel.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T18:38:57.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\semester 2\\OOPs\\C# PROJECT\\O S Center\\O S Center\\Program.cs",
+              "RelativeDocumentMoniker": "O S Center\\Program.cs",
+              "ToolTip": "D:\\semester 2\\OOPs\\C# PROJECT\\O S Center\\O S Center\\Program.cs",
+              "RelativeToolTip": "O S Center\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T18:29:42.585Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

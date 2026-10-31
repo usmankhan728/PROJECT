@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\semester 2\\OOPs\\C# PROJECT\\ONLINE_SHOPPING_CENTER\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCA2ECA0-021D-4452-A913-EED89B0EC703}|ONLINE_SHOPPING_CENTER\\ONLINE_SHOPPING_CENTER.csproj|d:\\semester 2\\oops\\c# project\\online_shopping_center\\online_shopping_center\\product\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCA2ECA0-021D-4452-A913-EED89B0EC703}|ONLINE_SHOPPING_CENTER\\ONLINE_SHOPPING_CENTER.csproj|solutionrelative:online_shopping_center\\product\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "productRepository.cs",
+              "DocumentMoniker": "D:\\semester 2\\OOPs\\C# PROJECT\\ONLINE_SHOPPING_CENTER\\ONLINE_SHOPPING_CENTER\\PRODUCT\\productRepository.cs",
+              "RelativeDocumentMoniker": "ONLINE_SHOPPING_CENTER\\PRODUCT\\productRepository.cs",
+              "ToolTip": "D:\\semester 2\\OOPs\\C# PROJECT\\ONLINE_SHOPPING_CENTER\\ONLINE_SHOPPING_CENTER\\PRODUCT\\productRepository.cs",
+              "RelativeToolTip": "ONLINE_SHOPPING_CENTER\\PRODUCT\\productRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwDQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T20:52:26.396Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

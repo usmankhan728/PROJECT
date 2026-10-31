@@ -1,0 +1,7 @@
+D:\semester 2\OOPs\C# PROJECT\O S Center\O S Center\bin\Debug\O S Center.exe.config
+D:\semester 2\OOPs\C# PROJECT\O S Center\O S Center\bin\Debug\O S Center.exe
+D:\semester 2\OOPs\C# PROJECT\O S Center\O S Center\bin\Debug\O S Center.pdb
+D:\semester 2\OOPs\C# PROJECT\O S Center\O S Center\obj\Debug\O S Center.csproj.AssemblyReference.cache
+D:\semester 2\OOPs\C# PROJECT\O S Center\O S Center\obj\Debug\O S Center.csproj.CoreCompileInputs.cache
+D:\semester 2\OOPs\C# PROJECT\O S Center\O S Center\obj\Debug\O S Center.exe
+D:\semester 2\OOPs\C# PROJECT\O S Center\O S Center\obj\Debug\O S Center.pdb
