@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\semester 2\\OOPs\\C# PROJECT\\OnlineShoppingCenter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4350C4A0-D889-45EF-B206-41AD729F48D1}|OnlineShoppingCenter\\OnlineShoppingCenter.csproj|D:\\semester 2\\OOPs\\C# PROJECT\\OnlineShoppingCenter\\onlineshoppingcenter\\admin\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4350C4A0-D889-45EF-B206-41AD729F48D1}|OnlineShoppingCenter\\OnlineShoppingCenter.csproj|solutionrelative:onlineshoppingcenter\\admin\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4350C4A0-D889-45EF-B206-41AD729F48D1}|OnlineShoppingCenter\\OnlineShoppingCenter.csproj|D:\\semester 2\\OOPs\\C# PROJECT\\OnlineShoppingCenter\\onlineshoppingcenter\\admin\\adminui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4350C4A0-D889-45EF-B206-41AD729F48D1}|OnlineShoppingCenter\\OnlineShoppingCenter.csproj|solutionrelative:onlineshoppingcenter\\admin\\adminui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4350C4A0-D889-45EF-B206-41AD729F48D1}|OnlineShoppingCenter\\OnlineShoppingCenter.csproj|d:\\semester 2\\oops\\c# project\\onlineshoppingcenter\\onlineshoppingcenter\\customer\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4350C4A0-D889-45EF-B206-41AD729F48D1}|OnlineShoppingCenter\\OnlineShoppingCenter.csproj|solutionrelative:onlineshoppingcenter\\customer\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4350C4A0-D889-45EF-B206-41AD729F48D1}|OnlineShoppingCenter\\OnlineShoppingCenter.csproj|d:\\semester 2\\oops\\c# project\\onlineshoppingcenter\\onlineshoppingcenter\\customer\\customerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4350C4A0-D889-45EF-B206-41AD729F48D1}|OnlineShoppingCenter\\OnlineShoppingCenter.csproj|solutionrelative:onlineshoppingcenter\\customer\\customerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4350C4A0-D889-45EF-B206-41AD729F48D1}|OnlineShoppingCenter\\OnlineShoppingCenter.csproj|d:\\semester 2\\oops\\c# project\\onlineshoppingcenter\\onlineshoppingcenter\\admin\\adminmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4350C4A0-D889-45EF-B206-41AD729F48D1}|OnlineShoppingCenter\\OnlineShoppingCenter.csproj|solutionrelative:onlineshoppingcenter\\admin\\adminmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4350C4A0-D889-45EF-B206-41AD729F48D1}|OnlineShoppingCenter\\OnlineShoppingCenter.csproj|d:\\semester 2\\oops\\c# project\\onlineshoppingcenter\\onlineshoppingcenter\\admin\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4350C4A0-D889-45EF-B206-41AD729F48D1}|OnlineShoppingCenter\\OnlineShoppingCenter.csproj|solutionrelative:onlineshoppingcenter\\admin\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4350C4A0-D889-45EF-B206-41AD729F48D1}|OnlineShoppingCenter\\OnlineShoppingCenter.csproj|D:\\semester 2\\OOPs\\C# PROJECT\\OnlineShoppingCenter\\onlineshoppingcenter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4350C4A0-D889-45EF-B206-41AD729F48D1}|OnlineShoppingCenter\\OnlineShoppingCenter.csproj|solutionrelative:onlineshoppingcenter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AT\\AppData\\Local\\Temp\\9125bad2-7301-48ec-80ac-46a6b4744893_GameProject (2).zip.GameProject (2).zip\\GameProject\\GameProject\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\semester 2\\OOPs\\C# PROJECT\\OnlineShoppingCenter\\OnlineShoppingCenter\\Program.cs",
+              "RelativeDocumentMoniker": "OnlineShoppingCenter\\Program.cs",
+              "ToolTip": "D:\\semester 2\\OOPs\\C# PROJECT\\OnlineShoppingCenter\\OnlineShoppingCenter\\Program.cs",
+              "RelativeToolTip": "OnlineShoppingCenter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T20:29:13.088Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "D:\\semester 2\\OOPs\\C# PROJECT\\OnlineShoppingCenter\\OnlineShoppingCenter\\Customer\\CustomerService.cs",
+              "RelativeDocumentMoniker": "OnlineShoppingCenter\\Customer\\CustomerService.cs",
+              "ToolTip": "D:\\semester 2\\OOPs\\C# PROJECT\\OnlineShoppingCenter\\OnlineShoppingCenter\\Customer\\CustomerService.cs",
+              "RelativeToolTip": "OnlineShoppingCenter\\Customer\\CustomerService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T11:57:33.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminModel.cs",
+              "DocumentMoniker": "D:\\semester 2\\OOPs\\C# PROJECT\\OnlineShoppingCenter\\OnlineShoppingCenter\\Admin\\AdminModel.cs",
+              "RelativeDocumentMoniker": "OnlineShoppingCenter\\Admin\\AdminModel.cs",
+              "ToolTip": "D:\\semester 2\\OOPs\\C# PROJECT\\OnlineShoppingCenter\\OnlineShoppingCenter\\Admin\\AdminModel.cs",
+              "RelativeToolTip": "OnlineShoppingCenter\\Admin\\AdminModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T11:37:35.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminRepository.cs",
+              "DocumentMoniker": "D:\\semester 2\\OOPs\\C# PROJECT\\OnlineShoppingCenter\\OnlineShoppingCenter\\Admin\\AdminRepository.cs",
+              "RelativeDocumentMoniker": "OnlineShoppingCenter\\Admin\\AdminRepository.cs",
+              "ToolTip": "D:\\semester 2\\OOPs\\C# PROJECT\\OnlineShoppingCenter\\OnlineShoppingCenter\\Admin\\AdminRepository.cs",
+              "RelativeToolTip": "OnlineShoppingCenter\\Admin\\AdminRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T11:34:49.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerUI.cs",
+              "DocumentMoniker": "D:\\semester 2\\OOPs\\C# PROJECT\\OnlineShoppingCenter\\OnlineShoppingCenter\\Customer\\CustomerUI.cs",
+              "RelativeDocumentMoniker": "OnlineShoppingCenter\\Customer\\CustomerUI.cs",
+              "ToolTip": "D:\\semester 2\\OOPs\\C# PROJECT\\OnlineShoppingCenter\\OnlineShoppingCenter\\Customer\\CustomerUI.cs",
+              "RelativeToolTip": "OnlineShoppingCenter\\Customer\\CustomerUI.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwEUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T11:25:01.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AT\\AppData\\Local\\Temp\\9125bad2-7301-48ec-80ac-46a6b4744893_GameProject (2).zip.GameProject (2).zip\\GameProject\\GameProject\\Program.cs",
+              "ToolTip": "C:\\Users\\AT\\AppData\\Local\\Temp\\9125bad2-7301-48ec-80ac-46a6b4744893_GameProject (2).zip.GameProject (2).zip\\GameProject\\GameProject\\Program.cs [Read Only]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T08:37:19.218Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminUI.cs",
+              "DocumentMoniker": "D:\\semester 2\\OOPs\\C# PROJECT\\OnlineShoppingCenter\\OnlineShoppingCenter\\Admin\\AdminUI.cs",
+              "RelativeDocumentMoniker": "OnlineShoppingCenter\\Admin\\AdminUI.cs",
+              "ToolTip": "D:\\semester 2\\OOPs\\C# PROJECT\\OnlineShoppingCenter\\OnlineShoppingCenter\\Admin\\AdminUI.cs",
+              "RelativeToolTip": "OnlineShoppingCenter\\Admin\\AdminUI.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAQwEAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T19:12:34.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "D:\\semester 2\\OOPs\\C# PROJECT\\OnlineShoppingCenter\\OnlineShoppingCenter\\Admin\\AdminService.cs",
+              "RelativeDocumentMoniker": "OnlineShoppingCenter\\Admin\\AdminService.cs",
+              "ToolTip": "D:\\semester 2\\OOPs\\C# PROJECT\\OnlineShoppingCenter\\OnlineShoppingCenter\\Admin\\AdminService.cs",
+              "RelativeToolTip": "OnlineShoppingCenter\\Admin\\AdminService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAzwC4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T19:03:10.29Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

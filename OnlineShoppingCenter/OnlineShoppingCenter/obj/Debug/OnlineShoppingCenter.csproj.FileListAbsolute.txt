@@ -1,0 +1,7 @@
+D:\semester 2\OOPs\C# PROJECT\OnlineShoppingCenter\OnlineShoppingCenter\bin\Debug\OnlineShoppingCenter.exe.config
+D:\semester 2\OOPs\C# PROJECT\OnlineShoppingCenter\OnlineShoppingCenter\bin\Debug\OnlineShoppingCenter.exe
+D:\semester 2\OOPs\C# PROJECT\OnlineShoppingCenter\OnlineShoppingCenter\bin\Debug\OnlineShoppingCenter.pdb
+D:\semester 2\OOPs\C# PROJECT\OnlineShoppingCenter\OnlineShoppingCenter\obj\Debug\OnlineShoppingCenter.csproj.AssemblyReference.cache
+D:\semester 2\OOPs\C# PROJECT\OnlineShoppingCenter\OnlineShoppingCenter\obj\Debug\OnlineShoppingCenter.csproj.CoreCompileInputs.cache
+D:\semester 2\OOPs\C# PROJECT\OnlineShoppingCenter\OnlineShoppingCenter\obj\Debug\OnlineShoppingCenter.exe
+D:\semester 2\OOPs\C# PROJECT\OnlineShoppingCenter\OnlineShoppingCenter\obj\Debug\OnlineShoppingCenter.pdb
