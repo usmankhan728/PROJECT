@@ -124,12 +124,26 @@ namespace OnlineShoppingCenter.Admin
                 }
                 else if(admin_opt == 5)
                 {
+                    service.ResetPagination();
                     Console.Clear();
-                    var result = service.datapages();
-                    foreach(var p in result)
+                    List<AdminModel> records = service.GetNextTwoRecords();
+
+                    if (records.Count == 0)
                     {
-                        Console.WriteLine(p.name + "\t" + p.price + "\t" + p.warranty + "\t\t" + p.discount + "\t\t" + p.deliveryCharges);
+                        Console.ReadKey();
+                        break;
                     }
+
+                    for (int i = 0; i < records.Count; i++)
+                    {
+                        var item = records[i];
+                        Console.WriteLine($"ID   : {item.name}");
+                        Console.WriteLine($"Name : {item.price}");
+                        Console.WriteLine($"Price: {item.warranty}");
+                       
+                    }
+
+                    Console.WriteLine("\nPress ANY key to view the next records...");
                     Console.ReadKey();
                 }
 

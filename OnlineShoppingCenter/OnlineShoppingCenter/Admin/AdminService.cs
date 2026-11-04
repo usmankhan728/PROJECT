@@ -27,29 +27,34 @@ namespace OnlineShoppingCenter.Admin
             return list;
         }
 
+        public int _currentIndex = 0; 
 
-        public List<AdminModel> datapages()
+        public List<AdminModel> GetNextTwoRecords()
         {
-            var list = GetAllProducts();
+            var allProducts = GetAllProducts();
+            List<AdminModel> twoRecords = new List<AdminModel>();
 
-            List<AdminModel> data = new List<AdminModel>();
-
-            for (int i = 0; i < list.Count; i++)
+            if (_currentIndex >= allProducts.Count)
             {
-                foreach (var item in list)
-                {
-                     (data.Count != 3)
-                    {
-                        data.Add(item);
-                    }
-                    while(list.Count >= 3 && list.Count < 6)
-                    {
-                        data.Add(item);
-                    }
-                }
+                _currentIndex = 0;
+                return twoRecords;
             }
-            return data;
+            int count = 0;
+            for (int i = _currentIndex; i < allProducts.Count && count < 2; i++)
+            {
+                twoRecords.Add(allProducts[i]);
+                count++;
+            }
+            _currentIndex += 2;
+
+            return twoRecords;
         }
+
+        public void ResetPagination()
+        {
+            _currentIndex = 0;
+        }
+
 
         public void AddItem(string name, double price, double warranty, double discount, double delivery)
         {
