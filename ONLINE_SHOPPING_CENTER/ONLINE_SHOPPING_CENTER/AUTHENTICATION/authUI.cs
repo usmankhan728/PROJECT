@@ -8,12 +8,7 @@ namespace ONLINE_SHOPPING_CENTER.AUTHENTICATION
 {
     internal class authUI
     {
-        private readonly authService _authService;
-
-        public authUI(authService authService)
-        {
-            _authService = authService;
-        }
+        public authService _authService = new authService();
 
         public bool Login()
         {

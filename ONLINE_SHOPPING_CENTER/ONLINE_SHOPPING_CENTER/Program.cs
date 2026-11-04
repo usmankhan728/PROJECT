@@ -18,7 +18,7 @@ namespace ONLINE_SHOPPING_CENTER
             productUI productUI = new productUI();
 
             authService authService = new authService();
-            authUI authUI = new authUI(authService);
+            authUI authUI = new authUI();
 
             char exit_program = 'u';
 
@@ -26,16 +26,18 @@ namespace ONLINE_SHOPPING_CENTER
             {
                 Console.Clear();
                 Console.WriteLine("|**************************************|");
-                Console.WriteLine("|-------------------------------------|");
-                Console.WriteLine(" |-----|ONLINE SHOPPING CENTER|-----|");
-                Console.WriteLine(" |------------|MANAGEMENT|----------|");
-                Console.WriteLine("|--------------------------------------|");
-                Console.WriteLine("|**************************************|");
-                Console.WriteLine("1...Admin");
-                Console.WriteLine("2...Customer");
-                Console.WriteLine("3...Exit");
-                Console.Write("Enter your choice: ");
-
+                Console.WriteLine("|======================================|");
+                Console.WriteLine("       ------------------------      ");
+                Console.WriteLine("       |ONLINE SHOPPING CENTER|     ");
+                Console.WriteLine("              |MANAGEMENT|          ");
+                Console.WriteLine("              ------------      ");
+                Console.WriteLine("|======================================|");
+                Console.WriteLine("|**************************************|\n");
+                Console.WriteLine("(1)...Admin");
+                Console.WriteLine("(2)...Customer");
+                Console.WriteLine("(3)...Exit");
+                Console.WriteLine("\n========================================");
+                Console.Write("Enter your choice: from (1_3) :");
                 string choiceStr = Console.ReadLine();
 
                 if (choiceStr == "1")

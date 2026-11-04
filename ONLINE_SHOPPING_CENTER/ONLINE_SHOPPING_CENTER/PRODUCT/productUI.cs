@@ -16,13 +16,16 @@ namespace ONLINE_SHOPPING_CENTER.PRODUCT
             while (admin_opt != 5)
             {
                 Console.Clear();
-                Console.WriteLine("--- ADMIN MENU ---");
-                Console.WriteLine("1..add item");
-                Console.WriteLine("2..remove item");
-                Console.WriteLine("3..view products");
-                Console.WriteLine("4..change price");
-                Console.WriteLine("5..logout");
-                Console.Write("Enter option: ");
+                Console.WriteLine("|==============================|");
+                Console.WriteLine("|==========ADMIN MENU==========|");
+                Console.WriteLine("|==============================|");
+                Console.WriteLine("|1..Add item                   |");
+                Console.WriteLine("|2..Remove item                |");
+                Console.WriteLine("|3..View products              |");
+                Console.WriteLine("|4..Change price               |");
+                Console.WriteLine("|5..Logout                     |");
+                Console.WriteLine("|==============================|\n");
+                Console.Write("Enter option: from (1_5) : ");
 
                 string input = Console.ReadLine();
                 admin_opt = int.Parse(input);

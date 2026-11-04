@@ -24,11 +24,14 @@ namespace ONLINE_SHOPPING_CENTER.BILLING
             while (cust_opt != 3)
             {
                 Console.Clear();
-                Console.WriteLine("--- CUSTOMER MENU ---");
-                Console.WriteLine("1..view products");
-                Console.WriteLine("2..buy item");
-                Console.WriteLine("3..exit");
-                Console.Write("Enter option: ");
+                Console.WriteLine("=================================");
+                Console.WriteLine("==========CUSTOMER MENU==========");
+                Console.WriteLine("=================================");
+                Console.WriteLine("1..View products");
+                Console.WriteLine("2..Buy item");
+                Console.WriteLine("3..Exit");
+                Console.WriteLine("=================================\n");
+                Console.Write("Enter option: from (1_3) : ");
 
                 string input = Console.ReadLine();
                 cust_opt = int.Parse(input);
